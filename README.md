@@ -1,8 +1,9 @@
-# Simple-Distance-Monitor
-In this project, I created a distance monitor that provides different outcomes depending on how far an object is from the sensor. The distance was then displayed live on a screen.
+# Simple-Parking-Sensor
+In this project, I created a parking sensor that provides different outcomes depending on how far an object is from the sensor. The distance was then displayed live on a screen.
 
 # Introduction
-The goal for this project is to use breadboarding and coding skills to create a simple distance monitor. The monitor should give warnings if any object gets too close and display the distance on an LCD. As the object approaches the sensor, the LED goes from green to amber and then to red, and the buzzer goes from silent to rapid oscillations at 1kHz. Equipment included an Ultrasonic sensor, a potentiometer, a microcontroller, a potentiometer, LEDS, and an LCD screen. The assembly of this project taught the importance of patience when troubleshooting, which will be crucial for more advanced projects.
+The goal for this project is to use breadboarding and coding skills to create a parking sensor. The monitor should give warnings if any object gets too close and display the distance on an LCD. As the object approaches the sensor, the LED goes from green to amber and then to red, and the buzzer goes from silent to rapid oscillations at 1kHz. Equipment included an Ultrasonic sensor, a potentiometer, a microcontroller, a potentiometer, LEDS, and an LCD screen. The assembly of this project taught the importance of patience when troubleshooting, which will be crucial for more advanced projects.
+
 
 # Components:
 The brain of this project was the Elegoo Uno microcontroller, which was used in coordination with the C/C++ based Arduino IDE to control the various components. 
